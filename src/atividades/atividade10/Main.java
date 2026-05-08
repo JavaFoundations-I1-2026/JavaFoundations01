@@ -1,11 +1,8 @@
-import aula3.Repeticao;
+package atividades.atividade10;
 
 public class Main {
-
     public static void main(String[] args) {
 
-        Repeticao.item5();
 
     }
-
 }
