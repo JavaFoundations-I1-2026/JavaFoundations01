@@ -1,11 +1,8 @@
-import aula3.Repeticao;
-
 public class Main {
 
     public static void main(String[] args) {
-
-        Repeticao.item5();
-
+        
+                
     }
 
 }
