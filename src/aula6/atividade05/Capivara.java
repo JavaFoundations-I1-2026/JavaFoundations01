@@ -1,4 +1,4 @@
-package aula06.atividade05;
+package aula6.atividade05;
 
 public class Capivara extends Animal{
 

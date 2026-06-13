@@ -1,6 +1,5 @@
-package aula06.atividade05;
+package aula6.atividade05;
 
-import java.sql.SQLOutput;
 import java.util.ArrayList;
 
 public class Main {
@@ -19,12 +18,10 @@ public class Main {
         animais.add(gato);
         animais.add(new Cachorro("Thunder",7,"Poodle"));
         animais.add(new Gato());
-        animais.add(new Capivara());
 
         for (Animal animal : animais) {
             animal.emitirSom();
         }
-
 
     }
 
